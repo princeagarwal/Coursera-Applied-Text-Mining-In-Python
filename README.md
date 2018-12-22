@@ -1,3 +1,1 @@
-# Tutorial
-
-This Repository is for me learning how to use Github and Git.
+## Coursera Applied Text Mining course slides and assignments
